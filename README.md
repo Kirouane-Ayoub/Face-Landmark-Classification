@@ -13,4 +13,8 @@ The Emotions Detection using Face Landmark Classification project is aimed at de
         virtual reality, gaming, and mental health assessment. The project may also involve data preprocessing, 
         feature extraction, model training and evaluation, and optimization for real-time or embedded systems.
         Ethical considerations, such as privacy and bias, will also be taken into account in the project's implementation.
+        
+        
+        
+
 During testing, we identified that the model could benefit from further fine-tuning.
